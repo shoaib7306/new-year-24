@@ -87,5 +87,63 @@ gap: 10px;
 }
 
 .place{
-    fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    background-color: rgb(183, 145, 145);
+}
+.Function{
+    color: #070211;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.holiday{
+    color: #F00;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+span{
+    color: #070211;
+font-family: Merriweather;
+font-size: 100px;
+font-style: normal;
+font-weight: 1000;
+line-height: normal;
+}
+.sale{
+    color: rgba(7, 2, 17, 0.60);
+   
+text-align: center;
+font-family: Inter;
+font-size: 50px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px
+}
+.Rectangle{
+
+height: 229px;
+flex-shrink: 0;
+border-radius: 16px 0px 16px 16px;
+background: #F00;
+}
+.resources{
+    fill: linear-gradient(90deg, #FFF 0.26%, #1D1D1B 100.35%);
+background-blend-mode: screen;
+mix-blend-mode: screen;
+width: 278.09px;
+height: 333.424px;
+flex-shrink: 0;
+}
+.rectangle-1{
+    border-radius: 16px 16px 0px 0px;
+background: url(<path-to-image>), lightgray -59.98px 0px / 151.553% 100% no-repeat;
+width: 429px;
+height: 433px;
+flex-shrink: 0;
 }
