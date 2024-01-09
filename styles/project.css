@@ -234,3 +234,26 @@ line-height: normal;
 text-transform: capitalize;
 
 }
+
+.footer{
+    width: 1600px;
+height: 609px;
+flex-shrink: 0;
+background: #070211;
+}
+.address{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; /* 166.667% */
+}
+.right{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
