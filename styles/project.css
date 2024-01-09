@@ -1,0 +1,91 @@
+nav{
+color: #ffffff;
+    text-align: center;
+font-family: Merriweather;
+font-size: 75px;
+font-weight: 900;
+line-height: 100px;
+background-image: url('../resources/Banner\ Image.png');
+margin-left: 200px;
+
+border-radius: 16px;
+
+width: 1320px;
+height: 600px;
+
+}
+div{
+    color: crimson;
+   text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 100px;
+font-weight: 800;
+
+}
+.middle{
+    color: darkred;
+
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+font-style: oblique;
+font-weight: 400;
+line-height: normal;
+}
+.catagory{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+section{
+    background-image: url('../resources/Vectorrr.png');
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+}
+.party-title{
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+height: 600px;
+background-position: center;
+}
+div p{
+
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.party{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px;
+}
+.button{
+   color: rgb(255, 255, 255);
+   font-weight: 900;
+   font-size: 20px;
+    display: inline-flex;
+    border-radius: 8px;
+    background: rgb(247, 5, 5);
+padding: 16px 32px;
+justify-content: left;
+align-items: last baseline;
+gap: 10px;
+}
+
+.place{
+    fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+}
